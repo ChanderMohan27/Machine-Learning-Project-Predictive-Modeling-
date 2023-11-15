@@ -24,7 +24,8 @@ In Phase 2, we conducted further analysis, including preprocessing, feature sele
 - `Phase2.ipynb`: Jupyter Notebook presenting the findings and conclusions of the Phase 1 analysis and we are also doing experiments with the use of different machine learning models that includes feature selection, model fitting, hyperparameter tuning, and model comparison.
 ## Dataset 
 You can download the dataset by using this link from kaggle 
-- `https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset`
+- [Link to Kaggle Dataset](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)
+
 ## Conclusion
 
 The well-organized methodology, encompassing data preprocessing, feature selection, model fitting, hyperparameter tuning, and model comparison, is a key strength of this project.
